@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/devsensa/image_uploader.svg?branch=master)](https://travis-ci.com/devsensa/image_uploader)
 # Реализовать на Rust простое REST API с одним единственным методом, который загружает изображения.
 
 ## Требования:
